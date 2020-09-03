@@ -21,6 +21,8 @@ public class BootjpaexampleApplication {
 	
 User user2 = 	repository.save(user);
 	
+
+System.out.println("//////////_______________");
 System.out.println(user2);
 	
 	
